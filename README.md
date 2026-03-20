@@ -1,2 +1,3 @@
-# fast-booking-system-k8yc
+# Fast Booking System K8Yc
+
 A reservation and booking system for modern development workflows.
